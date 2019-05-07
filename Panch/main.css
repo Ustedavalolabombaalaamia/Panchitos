@@ -1,0 +1,68 @@
+html{
+
+    background: url(https://s3.amazonaws.com/static.baggu.com/Wallpaper/SU18/Hotdog_2048_1366.png);
+    background-repeat: center fixed;
+    background-blend-mode: darken;
+    transition: 3s;
+}
+
+.title{
+
+    font-size: 15px;
+    
+}
+h1 {
+    background-color:rgb(0, 128, 111); 
+    color: #ffffff;  
+    text-align: center;
+    margin-top: 0; 
+    font-weight: 100;
+}
+h2{
+    background-color: auto; 
+    color: #ffffff;  
+    margin-top: 0; 
+    text-align: center;
+    font-weight: 100;
+
+}
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body{
+
+    background-color: none;
+}
+div{
+
+    width: 50%;
+    background-color:auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+       
+}
+
+audio{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    align-content: center;
+    align-self: center;
+    box-align: center;
+}
+img{
+    border: beige;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-color: red
+}
+video{
+
+    width: 50%;
+}
